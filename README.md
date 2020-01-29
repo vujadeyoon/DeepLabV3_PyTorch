@@ -17,6 +17,7 @@ usrname@hostname:~/curr_path$ pip3 install -r requirements.txt
 ```
 
 ## Usages <a name="usage"></a>
-```bash
+* Please note that you sholud place your test image in the directory, ./test_image.
+```bash 
 usrname@hostname:~/curr_path$ python3 ./main_inference.py --path_img ./test_images/img_input.jpg --cuda True
 ```
