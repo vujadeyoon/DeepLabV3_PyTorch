@@ -8,7 +8,7 @@ Inference python code for the official DeepLabV3 using PyTorch Hub
 
 ## Development environments <a name="dev_env"></a>
 * Coding language: Python3
-* PyTorch version: .1.4.0
+* PyTorch version: 1.4.0
 * Torchvision version: 0.5.0 
 
 ## Installation <a name="installation"></a>
